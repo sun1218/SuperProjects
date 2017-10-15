@@ -1,0 +1,5 @@
+李明 = {sex:男,phone:3196}
+小陆 = {sex:男,phone:1218}
+李静 = {sex:女,phone:11233}
+傻傻 = {sex:男,phone:117}
+聪聪 = {sex:男,phone:789456}
